@@ -44,6 +44,7 @@ Passionate about building efficient, user-friendly applications and constantly l
 ### 💡 Featured Projects  
 
 #### 🧾 [RetailXpert – Web-Based Inventory Management System](https://github.com/althaf-hussain46/retailxpert)
+## MCA - Final Year Project
 A secure and scalable inventory system for retail shops to manage stock, purchases, sales, and reports.  
 🔹 Role-Based Access Control (RBAC) with PHP authentication  
 🔹 Real-time AJAX search and optimized MariaDB structure  
@@ -55,6 +56,7 @@ A secure and scalable inventory system for retail shops to manage stock, purchas
 ---
 
 #### 🖥️ [Desktop Inventory Management Software – Footwear Shop](https://bit.ly/FootwearDemo)
+## B.Sc. - Final Year Project
 A desktop-based Python (Tkinter) inventory software for small retail stores.  
 🔹 Built Purchase & Sales modules with validation  
 🔹 Added filter-based reporting for quick insights  
