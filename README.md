@@ -84,5 +84,5 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 ---
 
 <p align="center">
-⭐ <b>“Code. Learn. Improve. Repeat.”</b> ⭐  
+#⭐ <b>“Code. Learn. Improve. Repeat.”</b> ⭐  
 </p>
