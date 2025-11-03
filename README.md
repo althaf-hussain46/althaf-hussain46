@@ -73,9 +73,10 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 ### 📫 Contact Me  
 📧 **Email:** [althafhussain2k3@gmail.com](mailto:althafhussain2k3@gmail.com)  
 📱 **Mobile:** +91 90940 95610  
-🌐 **Portfolio:** [www.retailxpert.in](https://www.retailxpert.in)  
 💻 **GitHub:** [github.com/althaf-hussain46](https://github.com/althaf-hussain46)  
-🌍 **Live Projects:** [Task Management System](https://taskmanagementsystem.42web.io)
+🌍 **Live Projects:** 
+- [www.retailxpert.in](https://www.retailxpert.in)
+- [Task Management System](https://taskmanagementsystem.42web.io)
 
 ---
 
