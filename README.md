@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-I’m an **MCA graduate** with hands-on experience in **web development** and **database management**, gained through real-world academic projects and live deployments.  
+I’m an **MCA graduate (2025)** with hands-on experience in **web development** and **database management**, gained through real-world academic projects and live deployments.  
 Passionate about building efficient, user-friendly applications and constantly learning new technologies to improve performance and reliability.
 
 ---
@@ -49,7 +49,7 @@ A secure and scalable inventory system for retail shops to manage stock, purchas
 🔹 Real-time AJAX search and optimized MariaDB structure  
 🔹 Hosted live using Hostinger with a custom domain  
 🔹 **Live Demo:** [www.retailxpert.in](https://www.retailxpert.in)  
-🔹 **Demo Credentials:** `Demo@admin / Demo_12345`  
+🔹 **Demo Credentials:** `Demo@Admin / Demo_12345`  
 🔹 **Demo Video:** [bit.ly/RetailXpertDemo](https://bit.ly/RetailXpertDemo)
 
 ---
