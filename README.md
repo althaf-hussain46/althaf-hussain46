@@ -61,7 +61,7 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 🔹 Built Purchase & Sales modules with validation  
 🔹 Added filter-based reporting for quick insights  
 🔹 **Tech Used:** Python, Tkinter, MySQL  
-🔹 **Demo Video:** {bit.ly/FootwearDemo](https://drive.google.com/file/d/1z5j1QitTCFoJnGsm12dTgc13wan1Op0p/view)
+🔹 **Demo Video:** {bit.ly/FootwearDemo](https://bit.ly/FootwearDemo)
 
 
 
