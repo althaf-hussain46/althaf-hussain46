@@ -69,18 +69,17 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 
 ### 🎓 Education  
 - **MCA** – MEASI Institute of Information Technology, Chennai (2023–2025) – *83.29%*  
-- **B.Sc.** Computer Science** – Alpha Arts and Science College, Chennai (2020–2023) – *84.79%*  
+- **B.Sc. Computer Science** – Alpha Arts and Science College, Chennai (2020–2023) – *84.79%*  
 
 ---
 
 ### 📫 Contact Me  
 📧 **Email :** [althafhussain2k3@gmail.com](mailto:althafhussain2k3@gmail.com)  
-📱 <span margin-left="20px"> **Mobile :** +91 90940 95610</span>  
+&nbsp;📱 **Mobile :** +91 90940 95610</span>  
 💻 **GitHub :** [github.com/althaf-hussain46](https://github.com/althaf-hussain46)  
 🌍 **Live Projects :** 
 - [Task Management System](https://taskmanagementsystem.42web.io) [Interview Task]
 - **YouTube :** https://www.youtube.com/@Althaf_Hussain_Projects
-  
 ---
 
 <p align="center">
