@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Althaf Hussain J</h1>
 <p align="center">
-🎓 MCA Graduate | 💻 Web Developer | 🗄️ MySQL Database Enthusiast  
+🎓 MCA Graduate | 💻 PHP Web Developer | 🗄️ MySQL Database Enthusiast  
 <br>
 📍 Chennai, India  
 </p>
