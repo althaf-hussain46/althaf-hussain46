@@ -23,7 +23,7 @@ Passionate about building efficient, user-friendly applications and constantly l
 #### ⚙️ **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### 👩‍💻 **Programming**
+#### 💻 **Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🤖 **Automation**
@@ -40,7 +40,9 @@ Passionate about building efficient, user-friendly applications and constantly l
 
 #### 🧪 **Others**
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
+![InfinityFree](https://img.shields.io/badge/InfinityFree-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-E67E22?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ---
 
