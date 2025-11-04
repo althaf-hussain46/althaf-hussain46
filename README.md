@@ -77,20 +77,6 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 - **MCA** – MEASI Institute of Information Technology, Chennai (2023–2025) – *83.29%*  
 - **B.Sc. Computer Science** – Alpha Arts and Science College, Chennai (2020–2023) – *84.79%*  
 
----
-
-### 🏆 Achievements & Certificates
-
-- 🥉 Secured **3rd Place** in **SQL WAR** at *NIRAL 2024*, College of Engineering Guindy.  
-  📜 [View Certificate](assets/NIRAL_SQL_WAR_Certificate.pdf)
-
-- 🏅 Awarded **Certificate for 100% Attendance** during Undergraduate Program.  
-  📜 [View Certificate](assets/Attendance_Certificate.pdf)
-
- 💃  Participated and **Performed Stage Dance** in college cultural events.  
-&nbsp; ![Dance Performance](assets/dance_photo.jpg)  
-🎥  [Watch Performance Video](https://youtu.be/your-video-link)
-
 
 ---
 ### 📫 Contact Me  
