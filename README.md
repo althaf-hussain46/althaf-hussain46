@@ -79,6 +79,20 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 
 ---
 
+### 🏆 Achievements & Certificates
+
+- 🥉 Secured **3rd Place** in **SQL WAR** at *NIRAL 2024*, College of Engineering Guindy.  
+  📜 [View Certificate](assets/NIRAL_SQL_WAR_Certificate.pdf)
+
+- 🏅 Awarded **Certificate for 100% Attendance** during Undergraduate Program.  
+  📜 [View Certificate](assets/Attendance_Certificate.pdf)
+
+ 💃  Participated and **Performed Stage Dance** in college cultural events.  
+&nbsp; ![Dance Performance](assets/dance_photo.jpg)  
+🎥  [Watch Performance Video](https://youtu.be/your-video-link)
+
+
+---
 ### 📫 Contact Me  
 📧 **Email :** [althafhussain2k3@gmail.com](mailto:althafhussain2k3@gmail.com)  
 &nbsp;📱 **Mobile :** +91 90940 95610</span>  
@@ -88,6 +102,9 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 🌍 **Live Projects :** 
 - [Task Management System](https://taskmanagementsystem.42web.io) [Interview Task]
 ---
+
+
+
 
 <p align="center">
 ⭐ <b>“Learn.  Code.  Improve. Repeat.”</b> ⭐  
