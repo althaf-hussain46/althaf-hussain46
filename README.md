@@ -87,7 +87,6 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 
 ### 📫 Links  
 💻 **GitHub :** [github.com/althaf-hussain46](https://github.com/althaf-hussain46)  
-🎥 **YouTube :** https://www.youtube.com/@Althaf_Hussain_Projects 
 
 🌍 **Live Projects :** 
 - [Task Management System](https://taskmanagementsystem.42web.io) [Interview Task]
