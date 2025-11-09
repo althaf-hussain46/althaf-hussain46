@@ -60,7 +60,7 @@ A secure and scalable inventory system for retail shops to manage stock, purchas
 🔹 Real-time AJAX search and optimized MariaDB structure  
 🔹 Hosted live using Hostinger with a custom domain  
 🔹 **Live Demo:** [www.retailxpert.in](https://www.retailxpert.in)  
-🔹 **Demo Credentials:** `Demo@Admin / Demo_12345`  
+🔹 **Demo Credentials:** `Demo@Admin |  Demo_12345`  
 🔹 **Demo Video:** [bit.ly/RetailXpertDemo](https://bit.ly/RetailXpertDemo)
 
 ---
@@ -96,6 +96,7 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 
 🌍 **Live Projects :** 
 - [Task Management System](https://taskmanagementsystem.42web.io) [Interview Task]
+- **Demo Credentials:** `admin | 123`  
 ---
 
 ### 🏆 Achievements & Certificates
