@@ -9,8 +9,8 @@
 
 ### 🚀 About Me  
 🔹 I’m an **MCA graduate (2025)** with hands-on experience in **software development**, **web development** and **database management**, gained 
-       through real-world academic projects and live deployments.  
-🔹 Passionate about building efficient, user-friendly applications and constantly learning new technologies to improve performance and reliability.
+            through real-world academic projects and live deployments.  
+🔹 Passionate about building efficient, user-friendly applications and constantly learning new technologies to improve performance and   reliability.
 
 ---
 
