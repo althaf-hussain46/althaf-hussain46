@@ -75,7 +75,9 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 
 ### 🎓 Education  
 - **MCA** – MEASI Institute of Information Technology, Chennai (2023–2025) – *83.29%*  
-- **B.Sc. Computer Science** – Alpha Arts and Science College, Chennai (2020–2023) – *84.79%*  
+- **B.Sc. Computer Science** – Alpha Arts and Science College, Chennai (2020–2023) – *84.79%*
+- **12th** – Avichi Higher Secondary School, Chennai (2019–2020) – *84.79%*
+- **10th** – Avichi Higher Secondary School, Chennai (2017–2018) – *84.79%*  
 
 
 ---
