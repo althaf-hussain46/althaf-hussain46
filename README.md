@@ -2,7 +2,7 @@
 <p align="center">
 🎓 MCA Graduate | 💻 PHP Web Developer (Core PHP & Laravel) | Python Developer |  
 <br>
-   🗄️ MySQL Database Developer (Query Optimization, Joins & Transactions)
+   | 🗄️ MySQL Database Developer (Query Optimization, Joins & Transactions) |
 <br>
 📍 Chennai, India  
 </p>
