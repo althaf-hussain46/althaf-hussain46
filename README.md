@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Althaf Hussain J</h1>
 <p align="center">
-🎓 MCA Graduate | 💻 PHP Web Developer | 🗄️ MySQL Database Enthusiast  
+🎓 MCA Graduate | 💻 PHP Web Developer | 🗄️ MySQL Database Developer (Query Optimization, Joins & Transactions)  
 <br>
 📍 Chennai, India  
 </p>
@@ -24,7 +24,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 🧩 **Framework**
+#### 🏗️ **Framework**
 ![Laravel](https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 
 
