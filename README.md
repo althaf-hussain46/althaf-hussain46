@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Althaf Hussain J</h1>
 <p align="center">
-🎓 MCA Graduate | 💻 PHP Web Developer (Core PHP & Laravel) | 🗄️ MySQL Database Developer (Query Optimization, Joins & Transactions)  
+🎓 MCA Graduate | 💻 PHP Web Developer (Core PHP & Laravel) | 🗄️ MySQL Database Developer (Query Optimization, Joins & Transactions) | | Python Developer |  
 <br>
 📍 Chennai, India  
 </p>
