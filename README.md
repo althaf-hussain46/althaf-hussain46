@@ -25,12 +25,10 @@
 <br>
 **Lionel Messi** – Started with no experience, but was given a chance based on pure talent and went on to become the greatest.
 <br>
-<h4>I am Althaf Hussain J</h4> – I may not have industry experience yet, but I am committed, skilled, and ready to prove myself when given a chance.  
-<br> 
-Skills
-<br>
+#### I am Althaf Hussain J – I may not have industry experience yet, but I am committed, skilled & ready to prove myself when given a chance.
+
+Skills :
 - PHP: MVC architecture, routing, CSRF, CRUD operations.  
-<br>
 - MySQL: Query optimization using Index and Partition.  
 
 
