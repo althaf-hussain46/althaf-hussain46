@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Althaf Hussain J</h1>
+
 <p align="center">
 🎓 MCA Graduate | 💻 PHP Web Developer (Core PHP & Laravel) | Python Developer |  
 <br>
@@ -19,6 +20,17 @@
 
 ---
 
+### 🌟 Motivation  
+**Sachin Tendulkar** – No experience → given a chance, and after his first failure → proved his talent → became a legend.
+<br>
+**Lionel Messi** – No experience → given a chance because of pure talent → became the GOAT.
+<br>
+**Althaf Hussain J** – No experience → **Waiting for Chance**  
+- PHP: MVC architecture, routing, CSRF, CRUD operations.  
+- MySQL: Query optimization using Index and Partition.  
+
+
+---
 ### 🛠️ Technical Skills  
 
 #### 🧩 **Frontend**
