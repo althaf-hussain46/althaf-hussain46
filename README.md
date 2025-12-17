@@ -20,12 +20,6 @@
 
 ---
 
-### 🌟 Seeking My First Opportunity to Prove My Skills  
-**Sachin Tendulkar** – Started with no experience, but was given a chance. After initial failure, he proved his talent and became a legend.
-<br>
-**Lionel Messi** – Started with no experience, but was given a chance based on pure talent and went on to become the greatest.
-<br>
-#### I am Althaf Hussain J – I may not have industry experience yet, but I am committed, skilled & ready to prove myself when given a chance.
 
 Skills :
 - PHP: MVC architecture, routing, CSRF, CRUD operations.  
