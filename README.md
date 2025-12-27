@@ -16,9 +16,9 @@
    <br> 
    &nbsp;&nbsp;&nbsp;&nbsp; building database-driven web applications and data reporting systems. 
 
-🔹 Proven ability to design optimized database schemas, implement CRUD operations and role-based access control (RBAC), and write complex 
+🔹 Proven ability to design optimized database schemas, implement CRUD operations and role-based access control (RBAC), and write 
    <br>
-   &nbsp;&nbsp;&nbsp;&nbsp; SQL joins and transactions. 
+   &nbsp;&nbsp;&nbsp;&nbsp; complex SQL joins and transactions. 
 
 🔹 Skilled in transforming raw operational data into meaningful business insights through automated reports and dashboards. 
 <br>
