@@ -134,8 +134,6 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 - 🥉 Secured *3rd Place* in *SQL WAR* at NIRAL 2024, College of Engineering Guindy.  
   📜 [View Certificate](https://drive.google.com/file/d/1u0FCKVxx_rVft_rfg4yYY3KT-QPPlSK_/view?usp=sharing)
 
-- 💃 Participated and *performed Stage Dance* in college cultural event - IRTIFAA 2K24.  
-  🎥 [Watch Performance Video](https://drive.google.com/file/d/1pA68VojRYNgWXly0JLMt60uzrTkntSWF/view?usp=sharing)
 
 
 
