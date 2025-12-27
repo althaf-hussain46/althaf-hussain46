@@ -12,7 +12,7 @@
 
 ### 🚀 About Me  
 
-🔹 Recent MCA graduate (2025) with strong hands-on experience in Core PHP, Laravel, Python, SQL, HTML, CSS, and JavaScript for  
+🔹 Recent MCA graduate (2025) with strong hands-on experience in Core PHP, Laravel, Python, SQL, HTML, CSS, and JavaScript for
    <br> 
    &nbsp;&nbsp;&nbsp;&nbsp; building database-driven web applications and data reporting systems. 
 
