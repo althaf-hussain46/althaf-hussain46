@@ -114,7 +114,7 @@ A desktop-based Python (Tkinter) inventory software for small retail stores.
 ---
 ### 📫 Contact Me  
 📧 **Email :** [althafhussain2k3@gmail.com](mailto:althafhussain2k3@gmail.com)  
-&nbsp;📱 **Mobile :** +91 90940 95610</span>  
+
 
 ---
 
