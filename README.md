@@ -34,7 +34,7 @@
 
 
 Skills :
-- PHP: MVC architecture, routing, CSRF, CRUD operations.  
+- PHP: MVC architecture, Routing, CSRF, CRUD operations, Middleware, Eloquent ORM, Pagination, Soft Delete, File Uploading (Image)  
 - MySQL: Complex joins, subqueries, transactions, indexing, query optimization using Index and Partition.  
 - Python: Data handling & analysis using Pandas, basic data visualization with Matplotlib, CSV/Excel processing.
 
